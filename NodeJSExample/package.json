@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "Sprint 1 Activity B: Create a NodeJS Project - Respond questions 5 to 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPenha/itm350-daniel-test.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Daniel Tepedino Penha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielPenha/itm350-daniel-test/issues"
+  },
+  "homepage": "https://github.com/DanielPenha/itm350-daniel-test#readme"
+}
