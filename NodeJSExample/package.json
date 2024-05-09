@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DanielPenha/itm350-daniel-test/issues"
   },
-  "homepage": "https://github.com/DanielPenha/itm350-daniel-test#readme"
+  "homepage": "https://github.com/DanielPenha/itm350-daniel-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
