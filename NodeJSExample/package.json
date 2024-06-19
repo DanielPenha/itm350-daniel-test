@@ -1,22 +1,22 @@
 {
-  "name": "nodejsexample",
+  "name": "sprint1",
   "version": "1.0.0",
-  "description": "Sprint 1 Activity B: Create a NodeJS Project - Respond questions 5 to 8",
+  "description": "simple node script to push",
   "main": "index.js",
   "scripts": {
-    "Hello": "node helloworld.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielPenha/itm350-daniel-test.git"
+    "url": "git+https://github.com/JesusBejar/itm-Group4-bb.git#Israel--Sprint1"
   },
-  "keywords": [
-    "Test"
-  ],
-  "author": "Daniel Tepedino Penha",
+  "author": "Israel Bejar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielPenha/itm350-daniel-test/issues"
+    "url": "https://github.com/JesusBejar/itm-Group4-bb/issues"
   },
-  "homepage": "https://github.com/DanielPenha/itm350-daniel-test#readme"
+  "homepage": "https://github.com/JesusBejar/itm-Group4-bb/tree/Israel--Sprint1#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
