@@ -5,3 +5,5 @@ As I embark on my journey into the ITM 350: System Analysis and Design class thi
 I must admit that I am still in the process of learning how to navigate GitHub and Git effectively. However, I am eager to learn and utilize these tools throughout the semester. I welcome any assistance and guidance from my teammates in this class, as well as from anyone else willing to offer their expertise. Your advice and insights will be invaluable as I strive to improve my skills in GitHub and Git.
 
 Here's to a productive and enriching semester ahead!
+
+by Daniel Tepedino Penha
